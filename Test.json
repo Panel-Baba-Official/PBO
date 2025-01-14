@@ -1,1 +1,10 @@
-Hello
+[
+  {
+    "key": "exampleKey1",
+    "value": "exampleValue1"
+  },
+  {
+    "key": "exampleKey2",
+    "value": "exampleValue2"
+  }
+]
